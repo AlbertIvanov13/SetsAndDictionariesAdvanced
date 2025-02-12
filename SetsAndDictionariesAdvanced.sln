@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. SoftUniParty", "09. Sof
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. UniqueUsernames", "10. UniqueUsernames\10. UniqueUsernames.csproj", "{A17E72B8-3DBE-449A-8B69-483857A2228F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. SetsOfElements", "11. SetsOfElements\11. SetsOfElements.csproj", "{693AFDBF-BA50-4416-8D43-58C786C0B3D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A17E72B8-3DBE-449A-8B69-483857A2228F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A17E72B8-3DBE-449A-8B69-483857A2228F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A17E72B8-3DBE-449A-8B69-483857A2228F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693AFDBF-BA50-4416-8D43-58C786C0B3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693AFDBF-BA50-4416-8D43-58C786C0B3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693AFDBF-BA50-4416-8D43-58C786C0B3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693AFDBF-BA50-4416-8D43-58C786C0B3D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
